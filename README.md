@@ -2,7 +2,7 @@
 
 This is a solver for the relatively popular "ball stacking" genre. Is has been specifically made with [this](https://play.google.com/store/apps/details?id=com.spicags.ballsort) android app in mind.
 
-![Example level in the game](example_image.png | width=300)
+<img alt="Example level in the game" src="https://raw.githubusercontent.com/Matthias-Sleurink/Ball-Game-Solver-Java/master/example_image.png" width="200">
 
 ## How the game works
 As visible above the game has a number of pots with balls in them. The goal is to have every pot sorted. You can do this by moving balls from one pot to either: an emtpy pot, or a pot with space, where the colour of the top ball is the same as the ball you are moving.
